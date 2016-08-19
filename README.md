@@ -1,3 +1,12 @@
+this fork:
+
+    modify text hello world example to port github:makevoid/rtextmagic to go
+
+
+https://github.com/makevoid/imagick/commit/bb4d699f17378e0e7462d52ffac71a30ca99cd66
+
+---
+
 # Go Imagick
 
 [![GoDoc](https://godoc.org/gopkg.in/gographics/imagick.v2/imagick?status.svg)](https://gopkg.in/gographics/imagick.v2/imagick)
